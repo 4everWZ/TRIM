@@ -1,0 +1,7 @@
+torch>=2.0
+numpy
+scipy>=1.10
+torch-pruning
+calflops
+pytest>=7.0
+accelerate
